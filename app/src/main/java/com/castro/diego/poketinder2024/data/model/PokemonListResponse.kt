@@ -1,4 +1,4 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.data.model
 
 data class PokemonListResponse (
     val count: Int,

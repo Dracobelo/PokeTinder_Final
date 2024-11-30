@@ -1,6 +1,5 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.ui.viewmodel
 
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 

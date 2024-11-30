@@ -1,4 +1,4 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.ui.view
 
 import android.content.Intent
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.ui.view
 
 import android.content.Context
 import android.content.Intent
@@ -9,6 +9,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import android.util.Log
+import com.castro.diego.poketinder2024.R
+import com.castro.diego.poketinder2024.data.database.SharedPreferencesRepository
 
 class RegisterActivity : AppCompatActivity() {
 

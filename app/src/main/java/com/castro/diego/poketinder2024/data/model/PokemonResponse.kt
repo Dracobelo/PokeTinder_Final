@@ -1,4 +1,4 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.data.model
 
 data class PokemonResponse(
     val name: String,
@@ -10,5 +10,4 @@ data class PokemonResponse(
 
     fun getPokemonImage(): String =
         "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${getPokemonId()}.png"
-
 }

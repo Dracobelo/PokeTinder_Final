@@ -1,4 +1,4 @@
-package com.castro.diego.poketinder2024
+package com.castro.diego.poketinder2024.ui.view
 
 import android.os.Bundle
 import android.content.Intent
@@ -6,6 +6,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.castro.diego.poketinder2024.databinding.ActivityLoginBinding
+import com.castro.diego.poketinder2024.ui.viewmodel.LoginViewModel
 
 class LoginActivity : AppCompatActivity() {
 
